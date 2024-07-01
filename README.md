@@ -5,9 +5,11 @@ Program ini digunakan untuk melakukan web scraping data lowongan pekerjaan dari 
 ## Fitur
 
 - Mengambil data lowongan pekerjaan dari beberapa halaman.
+![Preview](timesjob.png)
+![Preview](hasil.png)
 - Mengekstrak judul pekerjaan, nama perusahaan, keterampilan yang dibutuhkan, dan link detail pekerjaan.
 - Menyimpan data yang dikumpulkan ke dalam file CSV menggunakan pandas.
-
+![Preview](excel.png)
 ## Prasyarat
 
 Pastikan sudah menginstall pustaka berikut:
